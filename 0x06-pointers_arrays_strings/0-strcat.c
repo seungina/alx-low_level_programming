@@ -13,7 +13,7 @@ int len(char *dest)
  * @dest: This is pointer to the destination array.
  * @src: This is the string to be appended.
  * Return: dest.
- */
+ *
 
 char *_strcat(char *dest, char *src)
 {
