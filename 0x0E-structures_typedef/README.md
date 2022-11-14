@@ -11,4 +11,3 @@ In this folder find exercises in what we handle structures.
 2 2-print_dog.c In this valid file if the Name or Owner pointer is null and prints the information.
 4 4-new_dog.c In this file it makes a copy of the original Dog structure
 5 5-free_dog.c In this file we are freeing the values of the Dog structure.
-
